@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(https://previews.123rf.com/images/karolinamadej/karolinamadej1802/karolinamadej180200272/95719984-concepto-de-un-fondo-escolar-con-l%C3%A1pices-de-colores-y-garabatos-lindos-vector.jpg);
+    background-size: cover;
+}
+
+  .container {
+    max-width: 400px;
+    margin: 160px auto;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 14px;
+  }
+  
+  h1 {
+    color: #000000;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+  }
+  
+  select{
+    margin-bottom: 30px;
+    width: 25%;
+    padding: 4px;
+  }
+
+  button{
+    margin-bottom: 30px;
+    width: 30%;
+    padding: 8px;
+  }
+
+  input{
+    margin-bottom: 30px;
+    width: 14%;
+    padding: 4px;
+    
+  }
+  
+  button {
+    background-color: #000000;
+    color: #fffb00d3;
+    border: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #resultado {
+    margin-top: 10px;
+    text-align: center;
+  }
